@@ -1,5 +1,7 @@
-# 🤖 Awesome Devops MCP Servers / Agentic DevOps Toolkit
-List of Awesome MCP Servers and Clients for building Agentic Devops 
+# 🤖 Awesome DevOps MCP Servers / Agentic DevOps Toolkit
+
+List of Awesome MCP Servers and Clients for building Agentic Devops
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,17 +12,18 @@ A curated list of awesome [Model Context Protocol (MCP)](https://modelcontextpro
 
 ## 📋 Contents
 
-- [What is MCP?](#what-is-mcp)
-- [Cloud Platforms](#cloud-platforms)
-- [Kubernetes & Containers](#kubernetes--containers)
-- [Infrastructure as Code](#infrastructure-as-code)
-- [Monitoring & Observability](#monitoring--observability)
-- [CI/CD & Version Control](#cicd--version-control)
-- [Operating Systems & Command Line](#operating-systems--command-line)
-- [DevOps Productivity](#devops-productivity)
-- [DevOps Tooling](#devops-tooling)
-- [Miscellaneous](#miscellaneous)
-- [Resources](#resources)
+- [What is MCP?](#-what-is-mcp)
+- [Cloud Platforms](#️-cloud-platforms)
+- [Kubernetes & Containers](#-kubernetes--containers)
+- [Infrastructure as Code](#️-infrastructure-as-code)
+- [Monitoring & Observability](#-monitoring--observability)
+- [CI/CD & Version Control](#-cicd--version-control)
+- [Operating Systems & Command Line](#-operating-systems--command-line)
+- [DevOps Productivity](#-devops-productivity)
+- [DevOps Tooling](#️-devops-tooling)
+- [Databases](#️-databases)
+- [Miscellaneous](#-miscellaneous)
+- [Resources](#-resources)
 - [Contributing](#contributing)
 
 ## 🔍 What is MCP?
