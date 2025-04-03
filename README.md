@@ -2,11 +2,10 @@
 
 List of Awesome MCP Servers and Clients for building Agentic Devops
 
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://discord.gg/your-discord-link)
+[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://discord.gg/ZSPktpB3eW)
 
 A curated list of awesome [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) servers for DevOps practitioners, enabling AI assistants like Claude to interact with your infrastructure, monitoring tools, containers, cloud resources, and more. Build your own agentic DevOps workflows and level up your AIOps game!
 
@@ -22,6 +21,7 @@ A curated list of awesome [Model Context Protocol (MCP)](https://modelcontextpro
 - [DevOps Productivity](#-devops-productivity)
 - [DevOps Tooling](#️-devops-tooling)
 - [Databases](#️-databases)
+- [DevSecOps](#-devsecops)
 - [Miscellaneous](#-miscellaneous)
 - [Resources](#-resources)
 - [Contributing](#contributing)
@@ -185,7 +185,7 @@ Useful resources for learning about and working with MCP servers in DevOps.
 - [MCP Official Documentation](https://modelcontextprotocol.io/) - Official documentation and guides for MCP
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - A comprehensive list of MCP servers across various domains
 - [MCP Clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of clients compatible with MCP servers
-- [Discord Community](https://discord.gg/your-discord-link) - Join our Discord server to discuss DevOps with MCP
+- [Discord Community]([https://discord.gg/your-discord-link](https://discord.gg/ZSPktpB3eW)) - Join our Discord server to discuss DevOps with MCP
 - [Claude Desktop](https://claude.ai/desktop) - AI assistant with MCP support
 
 ## 🤝 Contributing
