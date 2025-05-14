@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/agenticdevops-awesome-devops-mcp-badge.png)](https://mseep.ai/app/agenticdevops-awesome-devops-mcp)
+
 # 🤖 Awesome DevOps MCP Servers / Agentic DevOps Toolkit
 
 List of Awesome MCP Servers and Clients for building Agentic Devops
