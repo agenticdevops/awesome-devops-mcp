@@ -146,19 +146,25 @@ Servers for specific DevOps tools and operations.
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) - Securely store and access API keys across projects using macOS Keychain
 - [joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) - Communicate with App Store Connect API for iOS Developers
 
-## 🧩 Miscellaneous
+## 🔒 DevSecOps
 
-Other useful servers for DevOps practitioners.
+Servers for security, compliance, and vulnerability scanning.
 
-- [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) - Integration with Ghidra for binary analysis, decompilation, and function inspection
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) - Analyze ROADrecon results from Azure tenant enumeration
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) - DNS fuzzing tool for detecting typosquatting and phishing
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) - OSINT tool for collecting user account information from public sources
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) - Query Shodan API for IP lookups, device searches, and vulnerability queries
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) - Query VirusTotal API for URL scanning and file hash analysis
+- [Cyntrisec](https://github.com/cyntrisec/cyntrisec-cli) - Local-first AWS security analyzer that discovers attack paths and generates remediations using graph theory.
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security) - Query ORKL API for threat reports and intelligence
 - [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) - Audit npm package dependencies for security vulnerabilities
 - [semgrep/mcp-security-audit](https://github.com/semgrep/mcp-security-audit) - Scan code for security vulnerabilities using Semgrep
+
+## 🧩 Miscellaneous
+
+Other useful servers for DevOps practitioners.
+
+- [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) - Integration with Ghidra for binary analysis, decompilation, and function inspection
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - IDA Pro integration for binary analysis, disassembly, and malware report generation
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500+ APIs with 8,000+ prebuilt tools
 
