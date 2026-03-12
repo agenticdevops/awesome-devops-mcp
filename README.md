@@ -129,6 +129,7 @@ Servers that enhance DevOps workflows and productivity.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - Flexibly fetch JSON, text, and HTML data
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) - Download entire websites using wget while preserving structure
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - Deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
+- [preflight-dev/preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that catches ambiguous prompts before execution, with 12-category scoring, correction pattern learning, cross-service contract awareness, cost estimation, and session history search via LanceDB vectors
 
 ## 🛠️ DevOps Tooling
 
