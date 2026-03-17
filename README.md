@@ -101,6 +101,7 @@ Servers for continuous integration, continuous deployment, and version control s
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) - Azure DevOps integration for repository management, work items, and pipelines
 - [ko1ynnky/github-actions-mcp-server](https://github.com/ko1ynnky/github-actions-mcp-server) - Interact with GitHub Actions
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) - Read and analyze GitHub repositories with your LLM
+- [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) - AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status
 
 ## 💻 Operating Systems & Command Line
 
