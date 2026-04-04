@@ -145,6 +145,7 @@ Servers for specific DevOps tools and operations.
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) - SQL analysis, linting, and dialect conversion using SQLGlot
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) - Securely store and access API keys across projects using macOS Keychain
 - [joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) - Communicate with App Store Connect API for iOS Developers
+- [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server) - 120+ developer utility tools via MCP: DNS lookup, SSL checking, WHOIS, security headers, API client generation, Docker Compose generation, Nginx configs, and more
 
 ## 🧩 Miscellaneous
 
