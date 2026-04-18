@@ -161,6 +161,7 @@ Other useful servers for DevOps practitioners.
 - [semgrep/mcp-security-audit](https://github.com/semgrep/mcp-security-audit) - Scan code for security vulnerabilities using Semgrep
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - IDA Pro integration for binary analysis, disassembly, and malware report generation
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500+ APIs with 8,000+ prebuilt tools
+- [unitedideas/nothumansearch](https://nothumansearch.ai/mcp) - Search engine for agent-first tools. Indexes 1,900+ MCP servers, OpenAPI specs, and llms.txt endpoints scored by agentic readiness. Tools include `search_sites`, `verify_mcp` (live JSON-RPC probe to validate a URL actually implements MCP), and `list_categories`. Useful for DevOps folks picking MCP servers for a given stack.
 
 ## 🗄️ Databases
 
