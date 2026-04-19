@@ -179,6 +179,11 @@ Servers for managing and interacting with various databases used in DevOps envir
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) - Interact with Tinybird serverless ClickHouse platform
 - [quarkiverse/quarkus-mcp-servers/jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) - Connect to any JDBC-compatible database and query, insert, update, delete, and more
 
+## 🤖 AI Coding Intelligence
+
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, and swarm intelligence
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update
+
 ## 📚 Resources
 
 Useful resources for learning about and working with MCP servers in DevOps.
