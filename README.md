@@ -146,6 +146,8 @@ Servers for specific DevOps tools and operations.
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) - Securely store and access API keys across projects using macOS Keychain
 - [joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) - Communicate with App Store Connect API for iOS Developers
 
+- [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault MCP server. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in CI/CD pipelines, prompts, or logs.
+
 ## 🧩 Miscellaneous
 
 Other useful servers for DevOps practitioners.
