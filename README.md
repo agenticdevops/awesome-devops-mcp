@@ -55,6 +55,7 @@ Servers for interacting with various cloud providers and services.
 
 Servers focused on container orchestration, Kubernetes management, and related tools.
 
+- [kubestellar/console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with built-in MCP server (kc-agent) for AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters
 - [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) - Docker integration for managing containers, images, volumes, and networks
 - [manusa/podman-mcp-server](https://github.com/manusa/podman-mcp-server) - MCP server for Podman container management with support for images, containers, volumes, pods, and networks
 - [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Powerful Kubernetes MCP server with OpenShift support and CRUD operations for any Kubernetes resource, plus specialized tools for cluster interaction
