@@ -209,3 +209,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Created and maintained by [AgenticDevOps](https://github.com/agenticdevops) community. If you find this project helpful, please consider giving it a star ⭐
+
+- [EventTrader MCP Server](https://github.com/eventtrader/event-trader-mcp) — AI prediction market trading: place bets, TGE token price predictions, real-time orderbooks, AI agent cloning, due diligence scoring. Remote endpoint at `cymetica.com/.well-known/mcp.json`. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=mcp-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=mcp-outreach)
