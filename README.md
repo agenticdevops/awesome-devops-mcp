@@ -120,6 +120,7 @@ Servers for interacting with operating systems, command line tools, and shell en
 
 Servers that enhance DevOps workflows and productivity.
 
+- [dakera-ai/dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server. Gives DevOps AI agents persistent memory of incident patterns, runbook procedures, and operational decisions across sessions. 83 MCP tools, RocksDB + HNSW, 87.8% LoCoMo benchmark.
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) - VS Code Extension for automatic debugging via breakpoints and expression evaluation
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) - Basic local taskwarrior usage for task management
 - [mrexodia/user-feedback-mcp](https://github.com/mrexodia/user-feedback-mcp) - Enable human-in-the-loop workflow in tools like Cline and Cursor
