@@ -72,6 +72,7 @@ Servers for managing infrastructure as code tools like Terraform, CloudFormation
 - [dogukanakkaya/pulumi-mcp-server](https://github.com/dogukanakkaya/pulumi-mcp-server) - Interact with Pulumi API, create and list Stacks
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - Terraform MCP server allowing AI assistants to manage Terraform environments
 - [lciesielski/mcp-salesforce](https://github.com/lciesielski/mcp-salesforce-example) - Demonstrate interactions with Salesforce instances
+- [Coding-Dev-Tools/deploydiff](https://github.com/Coding-Dev-Tools/deploydiff) - Preview infrastructure changes (Terraform, CloudFormation, Pulumi) with cost impact and rollback commands
 
 ## 📊 Monitoring & Observability
 
@@ -101,6 +102,8 @@ Servers for continuous integration, continuous deployment, and version control s
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) - Azure DevOps integration for repository management, work items, and pipelines
 - [ko1ynnky/github-actions-mcp-server](https://github.com/ko1ynnky/github-actions-mcp-server) - Interact with GitHub Actions
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) - Read and analyze GitHub repositories with your LLM
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Click/typer CLI as an MCP server (Model Context Protocol)
+- [Coding-Dev-Tools/api-contract-guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - CLI tool that monitors OpenAPI schema diffs, detects breaking changes, generates migration guides, and blocks CI pipelines on contract violations
 
 ## 💻 Operating Systems & Command Line
 
