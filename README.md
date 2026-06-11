@@ -87,6 +87,7 @@ Servers for monitoring, logging, and observability tools and platforms.
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - Access to OpenTelemetry traces and metrics through Logfire
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) - System monitoring tool for real-time metrics on CPU, memory, disk, network, hosts, and processes
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - Query and analyze Prometheus monitoring system
+- [jabbawocky/statuscraft](https://github.com/jabbawocky/statuscraft) - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, OpenAI, Datadog, etc.) — ask Claude "is GitHub down?" and get a live answer with full incident detail. No API key required.
 
 ## 🔄 CI/CD & Version Control
 
