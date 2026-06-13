@@ -64,6 +64,7 @@ Servers focused on container orchestration, Kubernetes management, and related t
 - [yanmxa/multicluster-mcp-server](https://github.com/yanmxa/multicluster-mcp-server) - Gateway for GenAI systems to interact with multiple Kubernetes clusters
 - [weibaohui/kom](https://github.com/weibaohui/kom) - SDK for multi-cluster Kubernetes management with built-in DevOps tools
 - [yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) - MCP server connecting to Apache Airflow using official client
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Kubernetes MCP server exposing cluster topology, resources, events, logs, service traffic, and a best-practices audit to AI assistants
 
 ## 🏗️ Infrastructure as Code
 
