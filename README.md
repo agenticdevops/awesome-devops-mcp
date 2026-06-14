@@ -31,6 +31,7 @@ A curated list of awesome [Model Context Protocol (MCP)](https://modelcontextpro
 [MCP](https://modelcontextprotocol.io/) (Model Context Protocol) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. For DevOps practitioners, this means your AI assistants can help with infrastructure management, monitoring, debugging, automation, and much more.
 
 Want to use these tools? Check out [Claude Desktop](https://claude.ai/desktop), [Cursor](https://cursor.sh/), or other [MCP-compatible clients](https://github.com/punkpeye/awesome-mcp-clients/).
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## ☁️ Cloud Platforms
 
