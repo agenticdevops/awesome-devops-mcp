@@ -59,6 +59,7 @@ Servers focused on container orchestration, Kubernetes management, and related t
 - [manusa/podman-mcp-server](https://github.com/manusa/podman-mcp-server) - MCP server for Podman container management with support for images, containers, volumes, pods, and networks
 - [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Powerful Kubernetes MCP server with OpenShift support and CRUD operations for any Kubernetes resource, plus specialized tools for cluster interaction
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) - Docker container management and operations through MCP
+- [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server) - 50 tools for container lifecycle, health checks, auto-restart, Compose management, log streaming, and fleet monitoring. Agent-native design, MIT license.
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - Golang-based Kubernetes server for browsing pods, logs, events, and namespaces
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) - Kubernetes management server for analyzing cluster and application health
 - [yanmxa/multicluster-mcp-server](https://github.com/yanmxa/multicluster-mcp-server) - Gateway for GenAI systems to interact with multiple Kubernetes clusters
@@ -88,6 +89,8 @@ Servers for monitoring, logging, and observability tools and platforms.
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) - System monitoring tool for real-time metrics on CPU, memory, disk, network, hosts, and processes
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - Query and analyze Prometheus monitoring system
 
+- [friendlygeorge/system-monitoring-mcp-server](https://github.com/friendlygeorge/system-monitoring-mcp-server) - 19 tools for host-level Linux monitoring: CPU, memory, disk, network, processes, systemd services, system logs. Agent-native, MIT license.
+
 ## 🔄 CI/CD & Version Control
 
 Servers for continuous integration, continuous deployment, and version control systems.
@@ -115,6 +118,7 @@ Servers for interacting with operating systems, command line tools, and shell en
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) - Access time in any timezone and get current local time
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) - Check local time on client or current UTC time from NTP server
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) - Expose Home Assistant voice intents through MCP for home control
+- [friendlygeorge/cron-scheduler-mcp-server](https://github.com/friendlygeorge/cron-scheduler-mcp-server) - Cron job scheduling with SQLite persistence, retry logic, and structured observability. MIT license.
 
 ## 🚀 DevOps Productivity
 
