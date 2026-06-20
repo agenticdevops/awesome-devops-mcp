@@ -84,6 +84,7 @@ Servers for monitoring, logging, and observability tools and platforms.
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) - Query and interact with Kubernetes environments monitored by Metoro
 - [modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Integration with Raygun for crash reporting and real user monitoring
 - [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
+- [Necmttn/ax](https://github.com/Necmttn/ax) - Local-first MCP server and dashboard for AI coding-agent telemetry, session recall, tool usage, cost analytics, and OTLP events
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - Access to OpenTelemetry traces and metrics through Logfire
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) - System monitoring tool for real-time metrics on CPU, memory, disk, network, hosts, and processes
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - Query and analyze Prometheus monitoring system
