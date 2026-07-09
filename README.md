@@ -77,7 +77,7 @@ Servers for managing infrastructure as code tools like Terraform, CloudFormation
 
 Servers for monitoring, logging, and observability tools and platforms.
 
-- [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) - Access to LLM observability, traces and monitoring captured by Opik
+- [comet-ml/opik-mcp](https://github.com/comet-ml/opik-mcp) - Access to LLM observability, traces and monitoring captured by Opik
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - Search dashboards, investigate incidents and query datasources in Grafana
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) - Analyze AI-generated code quality across 10 critical dimensions
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Bring real-time production context (logs, metrics, traces) into local environments
@@ -87,6 +87,7 @@ Servers for monitoring, logging, and observability tools and platforms.
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - Access to OpenTelemetry traces and metrics through Logfire
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) - System monitoring tool for real-time metrics on CPU, memory, disk, network, hosts, and processes
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - Query and analyze Prometheus monitoring system
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter MCP server for monitoring release feedback, incidents, brand mentions, and account activity from AI DevOps workflows
 
 ## 🔄 CI/CD & Version Control
 
@@ -186,7 +187,7 @@ Useful resources for learning about and working with MCP servers in DevOps.
 - [MCP Official Documentation](https://modelcontextprotocol.io/) - Official documentation and guides for MCP
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - A comprehensive list of MCP servers across various domains
 - [MCP Clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of clients compatible with MCP servers
-- [Discord Community]([https://discord.gg/your-discord-link](https://discord.gg/ZSPktpB3eW)) - Join our Discord server to discuss DevOps with MCP
+- [Discord Community](https://discord.gg/ZSPktpB3eW) - Join our Discord server to discuss DevOps with MCP
 - [Claude Desktop](https://claude.ai/desktop) - AI assistant with MCP support
 
 ## 🤝 Contributing
