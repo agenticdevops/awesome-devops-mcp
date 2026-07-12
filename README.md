@@ -135,6 +135,7 @@ Servers that enhance DevOps workflows and productivity.
 Servers for specific DevOps tools and operations.
 
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) - Support for querying and managing resources in Apache APISIX
+- [bleak-ai/gcontext](https://github.com/bleak-ai/gcontext) - Secure agent execution: structure syncs to the cloud, secret values and script execution never leave your machine. Typed workspace with split secrets. Install: `uvx gcontext-mcp`
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Seamlessly integrate any API with AI agents using OpenAPI Schema
 - [delano/postman-mcp](https://github.com/delano/postman-mcp) - Interact with Postman API
 - [flipt-io/mcp-server-flipt](https://github.com/flipt-io/mcp-server-flipt) - Enable AI assistants to interact with feature flags in Flipt
