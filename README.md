@@ -112,6 +112,7 @@ Servers for interacting with operating systems, command line tools, and shell en
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) - Command line interface with secure execution and security policies
 - [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) - DeepSeek MCP-like Server for Terminal
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - Secure shell command execution server
+- [AICommander-dev/aicommander](https://github.com/AICommander-dev/aicommander) - Outbound-only remote shell, detached long-running jobs, and file courier for AI agents. No exposed SSH, ports, or VPN.
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) - Access time in any timezone and get current local time
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) - Check local time on client or current UTC time from NTP server
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) - Expose Home Assistant voice intents through MCP for home control
