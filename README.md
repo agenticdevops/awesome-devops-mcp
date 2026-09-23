@@ -129,6 +129,7 @@ Servers that enhance DevOps workflows and productivity.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - Flexibly fetch JSON, text, and HTML data
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) - Download entire websites using wget while preserving structure
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - Deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
+- [theluckystrike/mcp-servers](https://github.com/theluckystrike/mcp-servers) - Zovo Office Suite: 30+ business-document MCP servers (invoicing, expenses, spreadsheets, PDFs, resumes) as one local-first bundle or individual hosted Streamable HTTP endpoints
 
 ## 🛠️ DevOps Tooling
 
