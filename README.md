@@ -161,6 +161,7 @@ Other useful servers for DevOps practitioners.
 - [semgrep/mcp-security-audit](https://github.com/semgrep/mcp-security-audit) - Scan code for security vulnerabilities using Semgrep
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - IDA Pro integration for binary analysis, disassembly, and malware report generation
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500+ APIs with 8,000+ prebuilt tools
+- [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) - [Aident Loadout](https://aident.ai) remote MCP: connect coding agents to 1,000+ apps (Gmail, Slack, GitHub, Linear, Notion, etc.) via one OAuth setup with vaulted credentials and audit logs
 
 ## 🗄️ Databases
 
