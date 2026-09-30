@@ -59,6 +59,7 @@ Servers focused on container orchestration, Kubernetes management, and related t
 - [manusa/podman-mcp-server](https://github.com/manusa/podman-mcp-server) - MCP server for Podman container management with support for images, containers, volumes, pods, and networks
 - [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Powerful Kubernetes MCP server with OpenShift support and CRUD operations for any Kubernetes resource, plus specialized tools for cluster interaction
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) - Docker container management and operations through MCP
+- [Peon-sh/Peon](https://github.com/Peon-sh/Peon) - Open-source self-hosted Docker deployment platform with a built-in Streamable HTTP MCP server; agents manage projects, services, deploys, env, logs, and backups under workspace RBAC (no shell exec tools)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - Golang-based Kubernetes server for browsing pods, logs, events, and namespaces
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) - Kubernetes management server for analyzing cluster and application health
 - [yanmxa/multicluster-mcp-server](https://github.com/yanmxa/multicluster-mcp-server) - Gateway for GenAI systems to interact with multiple Kubernetes clusters
