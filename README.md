@@ -46,6 +46,7 @@ Servers for interacting with various cloud providers and services.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - Terraform MCP server for managing and operating Terraform environments
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Enables AI assistants to interact with Kubernetes clusters through natural language
 - [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) - Go-based MCP Server for interfacing with Nutanix Prism Central resources
+- [ukiyocompute/ukiyo-mcp](https://github.com/ukiyocompute/ukiyo-mcp) - Rent on-demand GPUs (RTX 4090, RTX 6000 Ada, A100) from an AI assistant: list live offers, rent with prepaid credit, run commands over SSH and terminate
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - Multi-cluster Kubernetes management with built-in tools covering DevOps and development scenarios
 - [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) - Perform operations on your AWS resources using an LLM
 - [lishenxydlgzs/aws-athena-mcp](https://github.com/lishenxydlgzs/aws-athena-mcp) - MCP server for AWS Athena to run SQL queries on Glue Catalog
