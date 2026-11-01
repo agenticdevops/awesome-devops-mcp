@@ -85,6 +85,7 @@ Servers for monitoring, logging, and observability tools and platforms.
 - [modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Integration with Raygun for crash reporting and real user monitoring
 - [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - Access to OpenTelemetry traces and metrics through Logfire
+- [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli) - Local macOS network diagnostics over stdio MCP: investigate DNS, latency, failed API connections and metered links
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) - System monitoring tool for real-time metrics on CPU, memory, disk, network, hosts, and processes
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) - Query and analyze Prometheus monitoring system
 
