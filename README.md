@@ -129,6 +129,7 @@ Servers that enhance DevOps workflows and productivity.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - Flexibly fetch JSON, text, and HTML data
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) - Download entire websites using wget while preserving structure
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - Deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
+- [BEBOTECH-OU/scrapewise-mcp](https://github.com/BEBOTECH-OU/scrapewise-mcp) - Remote MCP server that scrapes, cleans and matches product and price data from any website.
 
 ## 🛠️ DevOps Tooling
 
